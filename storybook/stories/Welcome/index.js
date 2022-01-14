@@ -33,10 +33,11 @@ export default class Welcome extends React.Component {
     return (
       <View style={this.styles.wrapper}>
         <Text style={this.styles.header}>
-          Welcome to React Native Storybook
+          Welcome to React Native Storybook chromatic
         </Text>
         <Text style={this.styles.content}>
-          Changing text for the next commit
+          This is a UI Component development environment for your React Native
+          app. Here you can dispther words a story is like a visual test case.
         </Text>
         <Text style={this.styles.content}>
           We have added some stories inside the "storybook/stories" directory

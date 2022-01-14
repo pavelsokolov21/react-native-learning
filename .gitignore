@@ -61,3 +61,4 @@ buck-out/
 
 # Storybook
 build-storybook.log
+dist-storybook
